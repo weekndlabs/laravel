@@ -84,6 +84,18 @@
                                     Sign up with Github
                                     </i>
                                 </a>
+
+                                <a href="{{ url('/auth/google')}}" class="btn btn-google">
+                                    <i class="fa fa-google">
+                                    Sign up with Google
+                                    </i>
+                                </a>
+
+                                <a href="{{ url('/auth/twitter')}}" class="btn btn-twitter">
+                                    <i class="fa fa-twitter">
+                                    Sign up with Twitter
+                                    </i>
+                                </a>
                             </div>
                         </div>
                     </form>
