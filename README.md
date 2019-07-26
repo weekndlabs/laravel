@@ -10,7 +10,7 @@
 ## Laravel-Skeleton
 
 - Login Admin
-- Login Social Media (Facebook,Github)
+- Login Social Media (Facebook, Github, Google, Twitter)
 
 ## Login Admin
 

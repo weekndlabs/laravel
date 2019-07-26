@@ -79,6 +79,18 @@
                                     Login with Github
                                     </i>
                                 </a>
+
+                                <a href="{{ url('/auth/google')}}" class="btn btn-google">
+                                    <i class="fa fa-google">
+                                    Login with Google
+                                    </i>
+                                </a>
+
+                                <a href="{{ url('/auth/twitter')}}" class="btn btn-twitter">
+                                    <i class="fa fa-twitter">
+                                    Login with Twitter
+                                    </i>
+                                </a>
                             </div>
                         </div>
                     </form>
